@@ -34,7 +34,7 @@ function setup() {
 
 function draw() {
   // changer le dernier param (< 100) pour effets de trainée
-  image(imagebackround, 0, 0, width+1300, height+600);
+  image(imagebackround, 0, 0, width+1500, height+800);
 
   target = createVector(mouseX, mouseY);
 
